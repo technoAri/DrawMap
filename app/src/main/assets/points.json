@@ -1,0 +1,192 @@
+{
+  "status": 200,
+  "message": "OK",
+  "totalRecords": 0,
+  "data": [
+    {
+      "latitude": 14.9760137,
+      "longitude": 77.6920605,
+      "createdOn": "2021-01-13 12:48:13"
+    },
+    {
+      "latitude": 14.9762315,
+      "longitude": 77.6919492,
+      "createdOn": "2021-01-13 12:48:21"
+    },
+    {
+      "latitude": 14.9764607,
+      "longitude": 77.6918513,
+      "createdOn": "2021-01-13 12:48:28"
+    },
+    {
+      "latitude": 14.9767216,
+      "longitude": 77.6917402,
+      "createdOn": "2021-01-13 12:48:38"
+    },
+    {
+      "latitude": 14.977052,
+      "longitude": 77.6916562,
+      "createdOn": "2021-01-13 12:48:45"
+    },
+    {
+      "latitude": 14.9773152,
+      "longitude": 77.6915806,
+      "createdOn": "2021-01-13 12:48:51"
+    },
+    {
+      "latitude": 14.977669,
+      "longitude": 77.6914829,
+      "createdOn": "2021-01-13 12:48:58"
+    },
+    {
+      "latitude": 14.9780835,
+      "longitude": 77.6913262,
+      "createdOn": "2021-01-13 12:49:05"
+    },
+    {
+      "latitude": 14.9783233,
+      "longitude": 77.6912217,
+      "createdOn": "2021-01-13 12:49:40"
+    },
+    {
+      "latitude": 14.9786799,
+      "longitude": 77.6910467,
+      "createdOn": "2021-01-13 12:49:46"
+    },
+    {
+      "latitude": 14.9790769,
+      "longitude": 77.6908834,
+      "createdOn": "2021-01-13 12:50:16"
+    },
+    {
+      "latitude": 14.9794583,
+      "longitude": 77.690679,
+      "createdOn": "2021-01-13 12:50:22"
+    },
+    {
+      "latitude": 14.9796758,
+      "longitude": 77.6904034,
+      "createdOn": "2021-01-13 12:50:26"
+    },
+    {
+      "latitude": 14.9798262,
+      "longitude": 77.6901916,
+      "createdOn": "2021-01-13 12:50:29"
+    },
+    {
+      "latitude": 14.9799695,
+      "longitude": 77.6899946,
+      "createdOn": "2021-01-13 12:50:32"
+    },
+    {
+      "latitude": 14.9802028,
+      "longitude": 77.6896426,
+      "createdOn": "2021-01-13 12:50:38"
+    },
+    {
+      "latitude": 14.9803548,
+      "longitude": 77.6894409,
+      "createdOn": "2021-01-13 12:50:41"
+    },
+    {
+      "latitude": 14.9805713,
+      "longitude": 77.6891269,
+      "createdOn": "2021-01-13 12:50:44"
+    },
+    {
+      "latitude": 14.9807957,
+      "longitude": 77.6887668,
+      "createdOn": "2021-01-13 12:50:47"
+    },
+    {
+      "latitude": 14.9810221,
+      "longitude": 77.6884462,
+      "createdOn": "2021-01-13 12:50:50"
+    },
+    {
+      "latitude": 14.9813286,
+      "longitude": 77.6880325,
+      "createdOn": "2021-01-13 12:50:54"
+    },
+    {
+      "latitude": 14.9815485,
+      "longitude": 77.6877435,
+      "createdOn": "2021-01-13 12:50:57"
+    },
+    {
+      "latitude": 14.9818185,
+      "longitude": 77.6873887,
+      "createdOn": "2021-01-13 12:51:01"
+    },
+    {
+      "latitude": 14.9820255,
+      "longitude": 77.6871086,
+      "createdOn": "2021-01-13 12:51:04"
+    },
+    {
+      "latitude": 14.9822245,
+      "longitude": 77.6868324,
+      "createdOn": "2021-01-13 12:51:07"
+    },
+    {
+      "latitude": 14.9824362,
+      "longitude": 77.6865769,
+      "createdOn": "2021-01-13 12:51:10"
+    },
+    {
+      "latitude": 14.9826109,
+      "longitude": 77.6863786,
+      "createdOn": "2021-01-13 12:51:13"
+    },
+    {
+      "latitude": 14.9828419,
+      "longitude": 77.6860699,
+      "createdOn": "2021-01-13 12:51:20"
+    },
+    {
+      "latitude": 14.9833534,
+      "longitude": 77.6859107,
+      "createdOn": "2021-01-13 12:51:42"
+    },
+    {
+      "latitude": 14.9835957,
+      "longitude": 77.6859238,
+      "createdOn": "2021-01-13 12:51:45"
+    },
+    {
+      "latitude": 14.9838334,
+      "longitude": 77.6859301,
+      "createdOn": "2021-01-13 12:51:51"
+    },
+    {
+      "latitude": 14.984175,
+      "longitude": 77.6857247,
+      "createdOn": "2021-01-13 12:51:57"
+    },
+    {
+      "latitude": 14.9844456,
+      "longitude": 77.6855563,
+      "createdOn": "2021-01-13 12:52:01"
+    },
+    {
+      "latitude": 14.9847858,
+      "longitude": 77.6853828,
+      "createdOn": "2021-01-13 12:52:05"
+    },
+    {
+      "latitude": 14.9850062,
+      "longitude": 77.6851653,
+      "createdOn": "2021-01-13 12:52:08"
+    },
+    {
+      "latitude": 14.9852487,
+      "longitude": 77.6849814,
+      "createdOn": "2021-01-13 12:52:11"
+    },
+    {
+      "latitude": 14.9854988,
+      "longitude": 77.6848098,
+      "createdOn": "2021-01-13 12:52:15"
+    }
+  ]
+}
